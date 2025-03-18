@@ -1,0 +1,147 @@
+{
+  "profile": {
+    "name": "Tony Jose Matos",
+    "contact": {
+      "email": "tony@labldesign.com",
+      "phone": "413-231-8967",
+      "linkedin": "https://www.linkedin.com/in/tony-matos-791085159/",
+      "website": "https://tonyjmatos.com/work",
+      "twitter": "https://x.com/TonyJMatos",
+      "additional_links": [
+        "https://tonyjmatos.com/legacy-work",
+        "https://x.com/TonyJMatos/highlights"
+      ]
+    },
+    "summary": "Innovative AI strategist, creative technologist, and design expert passionate about blending technology and art. Skilled in crafting immersive digital experiences, leveraging AI for creative workflows, and building engaging brand narratives.",
+    "core_competencies": [
+      "AI-driven content creation & automation",
+      "Graphic design & visual storytelling",
+      "UX/UI design & user-centered innovation",
+      "Branding & digital strategy",
+      "Creative direction & concept development",
+      "Emerging tech & interactive media",
+      "Copywriting & editorial expertise",
+      "Social media engagement & growth"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Founder & Creative Director",
+      "company": "Beachpunk",
+      "location": null,
+      "start_date": "202X",
+      "end_date": "Present",
+      "responsibilities": [
+        "Developed Beachpunk, an immersive IP blending beach culture with punk aesthetics, growing a dedicated following on X.",
+        "Designed and executed branding, visual assets, and marketing strategies for consistency and engagement.",
+        "Integrated AI tools to optimize content production, audience interaction, and storytelling innovation."
+      ]
+    },
+    {
+      "role": "AI & Design Consultant",
+      "company": "Freelance",
+      "location": null,
+      "start_date": "202X",
+      "end_date": "Present",
+      "responsibilities": [
+        "Provided strategic AI integration solutions for creative workflows in design and content production.",
+        "Led branding and UX/UI initiatives for startups and businesses undergoing digital transformation.",
+        "Designed compelling visuals, brand identities, and digital experiences for high-engagement communities."
+      ]
+    },
+    {
+      "role": "Lead Designer & Content Strategist",
+      "company": "Various Collaborations",
+      "location": null,
+      "start_date": "202X",
+      "end_date": "Present",
+      "responsibilities": [
+        "Partnered with industry leaders to develop cutting-edge visual content using AI for creative efficiency.",
+        "Spearheaded marketing campaigns aligned with brand vision and audience expectations.",
+        "Created and managed multimedia content for social platforms, expanding reach and engagement."
+      ]
+    },
+    {
+      "role": "Art Technologist & AI Tutor",
+      "company": "LABL Design",
+      "location": "Westfield, MA",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "responsibilities": [
+        "Integrated Runway AI into creative processes, reducing production time by 20% while maintaining quality.",
+        "Leveraged Leonardo and Adobe Firefly for content creation, boosting brand awareness by 15%.",
+        "Implemented Neural Frames and SDXL for immersive brand experiences, increasing customer retention by 20%."
+      ]
+    },
+    {
+      "role": "Creative Director",
+      "company": "Maitri Learning",
+      "location": "Westhampton, MA",
+      "start_date": "2020-04",
+      "end_date": "2022-10",
+      "responsibilities": [
+        "Developed Montessori education materials with interactive elements, increasing sales by 30%.",
+        "Iterated designs based on educator feedback, improving customer satisfaction by 40%.",
+        "Led marketing strategies for a product launch, exceeding sales projections by 50%."
+      ]
+    },
+    {
+      "role": "Creative Director",
+      "company": "Pro-Mart Industries",
+      "location": "Irvine, CA",
+      "start_date": "2015-09",
+      "end_date": "2020-02",
+      "responsibilities": [
+        "Designed innovative Smart Design Home goods, increasing brand awareness by 20%.",
+        "Implemented a digital marketing strategy, boosting online engagement by 30% and website traffic by 15%.",
+        "Created compelling imagery, growing social media followership by 25%."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Arts in Marketing Communications",
+    "institution": "University of Amherst",
+    "location": "Amherst, MA",
+    "graduation_date": "2008-05"
+  },
+  "tools_technologies": [
+    "Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro)",
+    "Figma, Sketch, & UI/UX design platforms",
+    "AI-powered design & automation tools (Midjourney, Flux, Luma’s Dream Machine, Runway, Krea, ElevenLabs, Udio)",
+    "Web development & interactive media (HTML, CSS, JavaScript)",
+    "Copywriting & editorial tools",
+    "Social media analytics & growth strategies"
+  ],
+  "notable_achievements": [
+    "Built Beachpunk’s digital presence using AI for storytelling and engagement.",
+    "Advised startups and agencies on AI-enhanced creative workflows.",
+    "Recognized for innovative design, branding, and AI integration.",
+    "Led an award-winning Art Card series campaign in Europe with Maitri Learning."
+  ],
+  "work_style": {
+    "description": "Accepts accountability, believes in honest intentions, completes tasks diligently, and sees the best in situations.",
+    "traits": ["Positive", "Deliberate"]
+  },
+  "needs_motivations": {
+    "description": "Supports inventive solutions, combines information creatively, and seeks new knowledge through artistic expression.",
+    "traits": ["Progressive", "Curious"]
+  },
+  "problem_solving": {
+    "description": "Takes action with minimal investigation, evaluates issues broadly, and enjoys complex, thought-intensive projects.",
+    "traits": ["High-Level Perspective", "Scholarly"]
+  },
+  "leadership_approach": {
+    "description": "Defends positions, acknowledges shortcomings, influences others comfortably, and maintains sincerity.",
+    "traits": ["Influential", "Modest"]
+  },
+  "working_with_others": {
+    "description": "Exhibits agreeability, encourages success, shows compassion, and delivers positive feedback.",
+    "traits": ["Encouraging", "Accepting"]
+  },
+  "metadata": {
+    "last_updated": "2025-03-17",
+    "version": "1.0",
+    "format": "JSON",
+    "intended_use": ["portfolio", "resume", "integration"]
+  }
+}
